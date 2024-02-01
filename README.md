@@ -1,7 +1,7 @@
 # ReadmeTranslator
 > Choose language:
 > 
-> [![pl](https://img.shields.io/badge/lang-polski-red.svg)]() [![es](https://img.shields.io/badge/lang-espanol-orange.svg)]() [![de](https://img.shields.io/badge/lang-deutsch-yellow.svg)]() [![fr](https://img.shields.io/badge/lang-français-blue.svg)]()
+> [![pl](https://img.shields.io/badge/lang-polski-red.svg)](https://github.com/Nemezjusz/ReadmeTranslator/blob/main/readme/README.Polish.md) [![es](https://img.shields.io/badge/lang-espanol-orange.svg)]() [![de](https://img.shields.io/badge/lang-deutsch-yellow.svg)]() [![fr](https://img.shields.io/badge/lang-français-blue.svg)]()
 [![it](https://img.shields.io/badge/lang-italiano-grren.svg)]()
 
 
