@@ -1,11 +1,5 @@
 # TranslateMe
 
-> Choose language:
-> 
-> [![pl](https://img.shields.io/badge/lang-polski-red.svg)](https://github.com/Nemezjusz/ReadmeTranslator/blob/main/readme/README.Polish.md) [![es](https://img.shields.io/badge/lang-espanol-orange.svg)]() [![de](https://img.shields.io/badge/lang-deutsch-yellow.svg)]() [![fr](https://img.shields.io/badge/lang-français-blue.svg)]()
-[![it](https://img.shields.io/badge/lang-italiano-grren.svg)]()
-
-
 TranslateMe is a simple Python program that utilizes OpenAI's GPT-3.5-turbo model to automatically translate text in a GitHub repository. This program allows users to translate the content of a specified file in their GitHub repository into a chosen language.
 
 ## Description
